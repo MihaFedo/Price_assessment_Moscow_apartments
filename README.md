@@ -1,6 +1,6 @@
 ### Graduate project goals
-1. To predict the cost of an apartment in Moscow based on data about the apartment, house, location, and well-being of the area - data/finalized_model_raw/House_pricing_..._v1_for_app.ipynb.
-2. To create a web application using Dash to estimate prices for apartments with an interactive map - dash_app_house_pricing.py.
+1. To predict the cost of an apartment in Moscow based on data about the apartment, house, location, and well-being of the area - **data/finalized_model_raw/House_pricing_..._v1_for_app.ipynb**.
+2. To create a web application using Dash to estimate prices for apartments with an interactive map - **dash_app_house_pricing.py**.
 
 ### Dataset Description
 Input data - https://www.kaggle.com/c/sberbank-russian-housing-market/data <br>
