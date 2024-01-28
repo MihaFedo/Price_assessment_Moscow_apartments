@@ -1,7 +1,7 @@
 ### Graduate project goals
 1. To predict the cost of an apartment in Moscow based on data about the apartment, house, location, and well-being of the area - data/finalized_model_raw/House_pricing_..._v1_for_app.ipynb.
 2. To create a web application using Dash to estimate prices for apartments with an interactive map - dash_app_house_pricing.py.
-<br>
+
 ### Dataset Description
 Input data - https://www.kaggle.com/c/sberbank-russian-housing-market/data <br>
 The training data is from August 2011 to June 2015, and the test set is from July 2015 to May 2016. The dataset also includes information about overall conditions in Russia's economy and finance sector, so you can focus on generating accurate price forecasts for individual properties, without needing to second-guess what the business cycle will do. <br>
